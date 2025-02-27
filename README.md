@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Fabrz18/Fabrz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiastic and I'm constantly learning new skills to improve in web development.
 
-Here are some ideas to get you started:
+# My interests
+- 🌐 Web Development
+- ☁️ Cloud Computing
+- 💻 CyberSecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My skills
+- ## 🚀 Frameworks:
+  [![Frameworks](https://skillicons.dev/icons?i=django,react,nodejs,angular,flask&perline=5)](https://fabrz18.github.io/portafolio)
+  
+- ## 📦 Databases:
+  [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&perline=5)]([https://skillicons.dev](https://fabrz18.github.io/portafolio))
+- ## ⌨️ Languages:
+  [![Languages](https://skillicons.dev/icons?i=c,cs,cpp,py,js,java,css,html,ruby,php&perline=5)](https://fabrz18.github.io/portafolio)
+  
+- ## 🔱 Others:
+  [![Others](https://skillicons.dev/icons?i=gcp,aws,git,github,wordpress,azure,bootstrap,discord,figma,gmail,kali,linux,ps,redhat,powershell,stackoverflow,ts,visualstudio,vscode,windows&perline=5)](https://fabrz18.github.io/portafolio)
+
+
+## 📌 **Highlighted Projects**
+- 📝 **[TextIn](https://fabrz18.github.io/textin/)** - Facebook clone using CSS, JavaScript, and real-time database.  
+- 🍪 **[CookiesStore](https://fabrz18.github.io/Cookies-Store/)** - E-commerce inspired by Starbucks with product pagination.  
+- 💪 **[KingsGym](https://fabrz18.github.io/KingsGym/)** - Gym website with API integration.
+
+[Visit my portfolio](https://fabrz18.github.io/portafolio)
+
+### 📫 Conéctate conmigo:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabrizio-arturo-g-22b496325/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50">
+  </a>
+  <a href="https://github.com/Fabrz18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50">
+  </a>
+</p>
+
