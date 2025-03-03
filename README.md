@@ -36,6 +36,9 @@ I'm a technology enthusiastic and I'm constantly learning new skills to improve 
   <a href="https://github.com/Fabrz18" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50">
   </a>
+  
+</p>
+<p align="center">
   <a href="https://github.com/Fabrz18">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabrz18&layout=compact&langs_count=8&theme=algolia" alt=""/> 
   </a>
