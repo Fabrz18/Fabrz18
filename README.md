@@ -9,7 +9,7 @@ I'm a technology enthusiastic and I'm constantly learning new skills to improve 
 
 # My skills
 - ## 🚀 Frameworks:
-  [![Frameworks](https://skillicons.dev/icons?i=django,react,nodejs,angular,flask&perline=5)](https://fabrz18.github.io/portafolio)
+  [![Frameworks](https://skillicons.dev/icons?i=django,react,nodejs,angular,springboot&perline=5)](https://fabrz18.github.io/portafolio)
   
 - ## 📦 Databases:
   [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&perline=5)]([https://skillicons.dev](https://fabrz18.github.io/portafolio))
