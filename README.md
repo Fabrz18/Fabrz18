@@ -9,12 +9,12 @@ I'm a technology enthusiastic and I'm constantly learning new skills to improve 
 
 # My skills
 - ## 🚀 Frameworks:
-  [![Frameworks](https://skillicons.dev/icons?i=django,react,nodejs,angular,springboot&perline=5)](https://fabrz18.github.io/portafolio)
+  [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,angular,springboot&perline=5)](https://fabrz18.github.io/portafolio)
   
 - ## 📦 Databases:
   [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&perline=5)]([https://skillicons.dev](https://fabrz18.github.io/portafolio))
 - ## ⌨️ Languages:
-  [![Languages](https://skillicons.dev/icons?i=c,cs,cpp,py,js,java,css,html,ruby,php&perline=5)](https://fabrz18.github.io/portafolio)
+  [![Languages](https://skillicons.dev/icons?i=cs,cpp,py,js,java,css,html&perline=5)](https://fabrz18.github.io/portafolio)
   
 - ## 🔱 Others:
   [![Others](https://skillicons.dev/icons?i=gcp,aws,git,github,wordpress,azure,bootstrap,discord,figma,gmail,kali,linux,ps,redhat,powershell,stackoverflow,ts,visualstudio,vscode,windows&perline=5)](https://fabrz18.github.io/portafolio)
