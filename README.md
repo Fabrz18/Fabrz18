@@ -13,13 +13,13 @@ Unlike typical students, I focus on building **SaaS solutions** and real-world a
 ## ⚡ Tech Stack & Tools
 
 ### 🚀 Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,angular,springboot,express,nextjs&perline=6)](https://fabrz18.github.io/portafolio)
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,angular,springboot&perline=6)](https://fabrz18.github.io/portafolio)
 
 ### 📦 Databases & Cloud
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,gcp,aws,azure&perline=7)](https://fabrz18.github.io/portafolio)
 
 ### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=cs,java,js,ts,py,cpp,html,css&perline=8)](https://fabrz18.github.io/portafolio)
+[![Languages](https://skillicons.dev/icons?i=cs,java,js,ts,py,html,css&perline=8)](https://fabrz18.github.io/portafolio)
 
 ### 🛠️ DevOps & Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,kali,postman,figma,vscode,visualstudio&perline=9)](https://fabrz18.github.io/portafolio)
