@@ -30,8 +30,8 @@ Unlike typical students, I focus on building **SaaS solutions** and real-world a
 
 Here are some projects that showcase my ability to solve complex problems:
 
-- 🛒 **BitRaid (In Development)** – A SaaS Point of Sale (POS) system tailored for Peruvian businesses, featuring inventory management and **SUNAT (Tax Authority)** electronic invoicing integration.
-- 🧸 **Kubo Toys** – A digital marketplace platform for toys, deployed on a custom **VPS** architecture.
+- 🛒 **[BitRaid](https://www.bitraid.lat/)** – A SaaS Point of Sale (POS) system tailored for Peruvian businesses, featuring inventory management and **SUNAT (Tax Authority)** electronic invoicing integration.
+- 🧸 **[KuboToys](https://www.kubotoys.pe/)** – A digital marketplace platform for toys, deployed on a custom **VPS** architecture.
 - 📝 **[TextIn](https://fabrz18.github.io/textin/)** – A social media platform clone featuring real-time database interactions and responsive UI.
 - 🍪 **[CookiesStore](https://fabrz18.github.io/Cookies-Store/)** – A Starbucks-inspired E-commerce SPA with dynamic product pagination.
 
@@ -41,7 +41,10 @@ Here are some projects that showcase my ability to solve complex problems:
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Fabrizio's Stats](https://github-readme-stats.vercel.app/api?username=fabrz18&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=151515)
+
 ---
 
 ### 📫 Let's Connect
@@ -59,3 +62,5 @@ I am open to collaborations on **Web Development**, **Cloud Projects**, and **Sa
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50">
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
