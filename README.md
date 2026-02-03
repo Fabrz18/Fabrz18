@@ -41,11 +41,7 @@ Here are some projects that showcase my ability to solve complex problems:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabrz18&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=151515" alt="Fabrizio's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=151515" alt="Top Languages" width="48%" />
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📫 Let's Connect
