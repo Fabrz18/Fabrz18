@@ -43,12 +43,11 @@ Here are some projects that showcase my ability to solve complex problems across
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabrz18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Fabrizio's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrz18&theme=tokyonight&hide_border=true&background=0D1117" alt="Fabrizio's GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Fabrz18&theme=tokyonight&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabrz18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
