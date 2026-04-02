@@ -16,7 +16,7 @@ Unlike typical students, I focus on building **SaaS solutions** and real-world a
 [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,angular,springboot&perline=6)](https://fabrz18.github.io/portafolio)
 
 ### 📦 Databases & Cloud
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,gcp,aws,azure&perline=7)](https://fabrz18.github.io/portafolio)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,gcp,aws,azure&perline=8)](https://fabrz18.github.io/portafolio)
 
 ### 💻 Languages
 [![Languages](https://skillicons.dev/icons?i=cs,java,js,ts,py,html,css&perline=8)](https://fabrz18.github.io/portafolio)
@@ -28,10 +28,11 @@ Unlike typical students, I focus on building **SaaS solutions** and real-world a
 
 ## 📌 Featured Projects
 
-Here are some projects that showcase my ability to solve complex problems:
+Here are some projects that showcase my ability to solve complex problems across different ecosystems:
 
 - 🛒 **[BitRaid](https://www.bitraid.lat/)** – A SaaS Point of Sale (POS) system tailored for Peruvian businesses, featuring inventory management and **SUNAT (Tax Authority)** electronic invoicing integration.
 - 🧸 **[KuboToys](https://www.kubotoys.pe/)** – A digital marketplace platform for toys, deployed on a custom **VPS** architecture.
+- 🛡️ **AuthRaid / PunishRaid** – Custom Java-based server architectures featuring event-driven security protocols, local SQLite persistence, IP-session handling, and dynamic moderation GUIs.
 - 📝 **[TextIn](https://fabrz18.github.io/textin/)** – A social media platform clone featuring real-time database interactions and responsive UI.
 - 🍪 **[CookiesStore](https://fabrz18.github.io/Cookies-Store/)** – A Starbucks-inspired E-commerce SPA with dynamic product pagination.
 
@@ -39,11 +40,16 @@ Here are some projects that showcase my ability to solve complex problems:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Fabrizio's Stats](https://github-readme-stats.vercel.app/api?username=fabrz18&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=151515)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabrz18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Fabrizio's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrz18&theme=tokyonight&hide_border=true&background=0D1117" alt="Fabrizio's GitHub Streak" width="48%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=151515)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" width="80%" />
+</p>
 
 ---
 
@@ -58,9 +64,7 @@ I am open to collaborations on **Web Development**, **Cloud Projects**, and **Sa
   <a href="https://github.com/Fabrz18" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50">
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:fabriziogarro@tucorreo.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50">
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrz18&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
